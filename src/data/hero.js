@@ -1,6 +1,6 @@
 export const heroData = {
   greeting: "Hi, I'm",
-  name: "Keerthi Reddy Rajamuri",
+  name: "Surya Punna",
   title: "Full Stack Developer",
   subtitle: "I create exceptional digital experiences through clean code and thoughtful design",
   description: "Passionate about building scalable web applications and turning complex problems into simple, beautiful solutions.",
